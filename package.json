@@ -8,16 +8,8 @@
   "license": "MIT",
   "config": {
     "serviceURL": "https://auth.monday.com/login",
-    "message": "",
-    "popup": [],
     "hasNotificationSound": true,
-    "hasDirectMessages": true,
-    "hasIndirectMessages": false,
-    "hasTeamID": false,
-    "hasPredefinedUrl": true,
-    "hasCustomUrl": false,
-    "webviewOptions": {
-      "disablewebsecurity": ""
-    }
+    "hasTeamId": true,
+    "urlInputSuffix": ".monday.com"
   }
 }
