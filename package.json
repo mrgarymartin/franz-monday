@@ -1,0 +1,23 @@
+{
+  "id": "monday",
+  "name": "Monday",
+  "version": "1.0.0",
+  "description": "Monday",
+  "main": "index.js",
+  "author": "Gary Martin <gary@mrgarymartin.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://auth.monday.com/login",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "hasPredefinedUrl": true,
+    "hasCustomUrl": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    }
+  }
+}
